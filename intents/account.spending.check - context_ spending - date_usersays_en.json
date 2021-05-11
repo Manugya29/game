@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2590e40a-0813-4f6e-881c-63cc8517b795",
+    "data": [
+      {
+        "text": "and on ",
+        "userDefined": false
+      },
+      {
+        "text": "1/5/2017",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb6b3d8e-f521-4df3-bfbb-e175e459846a",
+    "data": [
+      {
+        "text": "Check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "January 1",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab6d4ca4-bbdc-46cf-b699-0597bf80e514",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "January 2, 2017",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

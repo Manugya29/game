@@ -1,0 +1,56 @@
+{
+  "id": "08c8a6c4-02a7-4c23-aa15-4bd608610cf8",
+  "name": "transfer.date.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "transfer.date.check",
+      "affectedContexts": [
+        {
+          "name": "transfer-amount",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4892701d-e891-42a4-8f7c-0d6d84a78ad0",
+          "name": "type",
+          "required": false,
+          "dataType": "@transfer-type",
+          "value": "$type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your last incoming transfer was on:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

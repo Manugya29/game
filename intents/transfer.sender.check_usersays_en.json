@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1ded82be-e1ad-4c19-ae39-11ced438d72e",
+    "data": [
+      {
+        "text": "where was my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a24f7f34-125a-4d50-9f98-fab790dd526f",
+    "data": [
+      {
+        "text": "who have I got the last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e25a137f-d334-4e57-b10e-2763dd2d80f3",
+    "data": [
+      {
+        "text": "who sent me the last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d53a93d7-0d33-4b6b-b9c9-96e86c0718ed",
+    "data": [
+      {
+        "text": "who was my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "80d16ca5-3a86-47d8-a14d-b0829a3dcfdd",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "378a9456-708b-464c-aa47-1a5c6befb93d",
+    "data": [
+      {
+        "text": "balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "305d16c2-e7b0-4f89-8abd-8f67897f7f1a",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd33690d-37bf-4b99-b9be-f91a95c5e59e",
+    "data": [
+      {
+        "text": "what\u0027s the balance in my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": true
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2619c0-bb51-45fb-b350-f861df68cede",
+    "data": [
+      {
+        "text": "show available money on my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37d6810e-ea89-48de-a598-4e511dcd5c21",
+    "data": [
+      {
+        "text": "how much money is available on my bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c38b3a2-c56c-4838-95af-287fd490fb8c",
+    "data": [
+      {
+        "text": "check how much money do i have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bf73af1-7d20-42e2-a6a3-ccc49a84dc0e",
+    "data": [
+      {
+        "text": "how much money do I have on the card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1462a82-c903-4862-8f56-88dee0a9f228",
+    "data": [
+      {
+        "text": "check my balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3208512a-e941-4cea-a1df-0aeba2201002",
+    "data": [
+      {
+        "text": "can you show balance on ",
+        "userDefined": false
+      },
+      {
+        "text": "the card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba45aed9-e917-4540-bb60-dac40a922eef",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " money on my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e4188f4-9e59-4dca-ac40-e78aabe46644",
+    "data": [
+      {
+        "text": "show balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a302b4a-85b1-4e32-b639-85ea94eb8066",
+    "data": [
+      {
+        "text": "check my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

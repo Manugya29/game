@@ -1,0 +1,77 @@
+[
+  {
+    "id": "71b5d153-3e50-41ec-9515-3d1c6d19a91d",
+    "data": [
+      {
+        "text": "how much money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7be9a44b-dbbf-4736-895a-90b26b190986",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22aa5825-188d-41ab-a125-fa5848f461f8",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " how much money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "328c6994-578a-4dae-9e89-6b68e5eeb9c4",
+    "data": [
+      {
+        "text": "how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f245ad6f-f655-4f8c-80b5-b8a7b6bf6d7b",
+    "data": [
+      {
+        "text": "tell me how much money there is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

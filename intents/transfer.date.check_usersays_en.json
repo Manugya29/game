@@ -1,0 +1,114 @@
+[
+  {
+    "id": "2d1445e6-5751-4d00-8152-af10f736ec0b",
+    "data": [
+      {
+        "text": "when was my last transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d770fae6-cf5b-43ba-ae6f-76ba3fc307a0",
+    "data": [
+      {
+        "text": "date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaa565f6-b83a-4884-8965-32466c2c0dd8",
+    "data": [
+      {
+        "text": "check the last ",
+        "userDefined": false
+      },
+      {
+        "text": "EFT",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcdcfc78-0afd-4695-b744-32111d894c67",
+    "data": [
+      {
+        "text": "can you show the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23784e61-f7f9-4940-9d44-8084ed9967aa",
+    "data": [
+      {
+        "text": "when was the last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8ba8f7-5bb3-4751-84f2-92e1c021e277",
+    "data": [
+      {
+        "text": "When was my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

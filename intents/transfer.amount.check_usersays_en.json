@@ -1,0 +1,82 @@
+[
+  {
+    "id": "b47db645-02f8-4d78-9b0b-9e5d49af1a3b",
+    "data": [
+      {
+        "text": "check my last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cbed150-aecc-45b5-acc2-72fb28c26aa9",
+    "data": [
+      {
+        "text": "how much was my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d1740f9-d7af-400f-9734-f1f16032c4de",
+    "data": [
+      {
+        "text": "was my last ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " large",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c1d2b8e-7c67-42e2-bbb5-bd34d1ea1188",
+    "data": [
+      {
+        "text": "check the amount of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "credit",
+        "meta": "@transfer-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

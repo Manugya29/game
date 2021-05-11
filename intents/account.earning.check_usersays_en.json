@@ -1,0 +1,226 @@
+[
+  {
+    "id": "a80553b7-23f4-4255-a500-db72bf3f679e",
+    "data": [
+      {
+        "text": "deposits",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3736021e-6f44-4f21-9452-ec5e227c4382",
+    "data": [
+      {
+        "text": "see my ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63225da8-cbbc-480b-909f-0db47f94ea85",
+    "data": [
+      {
+        "text": "I want to see my ",
+        "userDefined": false
+      },
+      {
+        "text": "deposits",
+        "meta": "@category",
+        "alias": "category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6de5362-2aa9-4655-a273-1f1569418b8b",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " earnings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d609235-2ffa-49b7-b273-3073d6fabe18",
+    "data": [
+      {
+        "text": "earnings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b049793-762f-474a-9b40-8a715fb99b9e",
+    "data": [
+      {
+        "text": "can you say how much money I got ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " on my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking account",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "988e0049-32a0-430e-be0f-23359f3418a4",
+    "data": [
+      {
+        "text": "how much money did I earn in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a901f5a5-efb4-4280-8ac2-e38a144b8bca",
+    "data": [
+      {
+        "text": "how much money did I earn on ",
+        "userDefined": false
+      },
+      {
+        "text": "January 2",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6417ec3d-a8f1-4659-bcc7-965f6743bd6a",
+    "data": [
+      {
+        "text": "check",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my earnings on my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea8297ce-c0ea-4b25-a08f-03d6a96015d4",
+    "data": [
+      {
+        "text": "check earnings are on my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "meta": "@account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6bfd24b-e972-47a8-87b9-74f0cb76288b",
+    "data": [
+      {
+        "text": "get info about my earnings on my card in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
